@@ -1,4 +1,4 @@
-package com.study.data.entity;
+package com.xiao.spring5.entity;
 
 import javax.persistence.*;
 import java.util.Objects;
